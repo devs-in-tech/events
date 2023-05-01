@@ -1,8 +1,8 @@
 # Blog-a-thon Challenges 📝
 
-DevsInTech has collaborated with Hashnode to bring you a 2 weeks blogging challenge: **Blog-a-thon**
+DevsInTech has collaborated with Hashnode to bring you a 4 weeks blogging challenge: **Blog-a-thon**
 
-For March, write a blog, in either or all of the following four tracks namely, 
+For May, write a blog, in either or all of the following four tracks namely, 
 
 - **Development**
 - **Artifical Intelligence**
@@ -18,17 +18,19 @@ For March, write a blog, in either or all of the following four tracks namely,
 ## 🤔 How to Participate
 - **To participate, write a blog on Hashnode and add the tag `DevsInTechBlogs` to your blog on Hashnode**
 
+- **Share your blog on Socials by tagging Hashnode and [DevsInTech](https://twitter.com/devs_in_tech)**
+
 - **Do not forget to link your social profiles (Twitter and/or LinkedIn) to your Hashnode profile so that you can be contacted if you win.**
 
 ## 🙋 FAQ
 
 ### What is it?
 
-- Blog-a-thon is a blogging challenge brought to you by **DevsInTech** in association with **Hashnode**, a free developer blogging platform. We have 3 tracks for May namely- `Open Source`, `Frontend Development`, and `Cybersecurity`. You can write a blog for all or either of them by adding the tag  **`DevsInTechBlogs`**. At the end of the month, we will announce one winner for each track, therefore, 3 winners in total, who will be rewarded with Hashnode swags and a shoutout from DevsInTech’s socials.
+- Blog-a-thon is a blogging challenge brought to you by **DevsInTech** in association with **Hashnode**, a free developer blogging platform. We have 3 tracks for May namely- `Development`, `Artifical Intelligence`, `Low Code Tools` and `Hackathons and your experiences`. You can write a blog for all or either of them by adding the tag  **`DevsInTechBlogs`**. At the end of the month, we will announce one winner, who will be rewarded with Hashnode swags and a shoutout from DevsInTech's socials.
 
 ### When does this end?
 
-- The challenge ends on March 19, 2023.
+- The challenge ends on May 31, 2023.
 
 ### How to participate?
 
@@ -36,11 +38,11 @@ For March, write a blog, in either or all of the following four tracks namely,
 
 ### Are there any guidelines to choose the topic?
 
-- YES! You can write on any topic as long as it fits either of our three tracks but anything apart from that will not be accepted.
+- YES! You can write on any topic as long as it fits either of our above mentioned four tracks but anything apart from that will not be accepted.
 
 ### Can I write multiple blogs?
 
-- YES! In fact, the more you write, the better chance of you winning. You can also write on more than one of the tracks mentioned above.
+- YES! In fact, the more you write, the better chance of you winning. But note that you are writing on only one blog for each tracks. For example, if you have a blog on Development, then you can't submit another blog for the same track but you can submit blogs on the remaining 3 tracks. 
 
 ### What will this get me?
 
@@ -55,7 +57,7 @@ For March, write a blog, in either or all of the following four tracks namely,
 - Embed links for other blogs, YouTube videos, wikipedia pages etc, wherever needed
 - Give a conclusion to your blog
 - Write the name of the track you are writing for (optional but convenient for us)
-- For example, `This blog is written for the “Open Source" track of DevsInTech Blogs`.
+- For example, `This blog is written for the “Development" track of DevsInTech Blogs`.
 - Do not forget to add the tag `DevsInTechBlogs` to your blog for it to be considered a valid entry.
 - Lastly, `do not plagiarize`.
 
