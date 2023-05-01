@@ -4,9 +4,10 @@ DevsInTech has collaborated with Hashnode to bring you a 2 weeks blogging challe
 
 For March, write a blog, in either or all of the following four tracks namely, 
 
-- **Open Source**
-- **Frontend Development**
-- **Cybersecurity**
+- **Development**
+- **Artifical Intelligence**
+- **Low Code Tools**
+- **Hackathons and your experiences**
 
 #### And stand a chance to win some cool Hashnode swags!
 
@@ -23,7 +24,7 @@ For March, write a blog, in either or all of the following four tracks namely,
 
 ### What is it?
 
-- Blog-a-thon is a blogging challenge brought to you by **DevsInTech** in association with **Hashnode**, a free developer blogging platform. We have 3 tracks for March namely- `Open Source`, `Frontend Development`, and `Cybersecurity`. You can write a blog for all or either of them by adding the tag  **`DevsInTechBlogs`**. At the end of the month, we will announce one winner for each track, therefore, 3 winners in total, who will be rewarded with Hashnode swags and a shoutout from DevsInTech’s socials.
+- Blog-a-thon is a blogging challenge brought to you by **DevsInTech** in association with **Hashnode**, a free developer blogging platform. We have 3 tracks for May namely- `Open Source`, `Frontend Development`, and `Cybersecurity`. You can write a blog for all or either of them by adding the tag  **`DevsInTechBlogs`**. At the end of the month, we will announce one winner for each track, therefore, 3 winners in total, who will be rewarded with Hashnode swags and a shoutout from DevsInTech’s socials.
 
 ### When does this end?
 
